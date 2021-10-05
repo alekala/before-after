@@ -4,7 +4,7 @@
 
 main.py -t <image/folder> <input>
 
-EXAMPLES
+## EXAMPLES
 
 Individual images  
 INPUT:    main.py -t image before.jpg after.jpg  
