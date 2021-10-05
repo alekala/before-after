@@ -1,8 +1,6 @@
 # before-after
-
--------------------------------------------------- #
                                               
-USAGE
+## USAGE
 
 main.py -t <image/folder> <input>
 
@@ -23,9 +21,7 @@ Naming scheme for images inside the folder:
 31.jpg, 32.jpg
 41.jpg, 42.jpg
 
--------------------------------------------------- #
-
-OPTIONS / ARGUMENTS
+## OPTIONS / ARGUMENTS
 
 (required)
 --type -t
